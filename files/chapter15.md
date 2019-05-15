@@ -26,7 +26,7 @@ class User
 
     public function getName($name)
     {
-        return $this->id;
+        return $this->name;
     }
 }
 
